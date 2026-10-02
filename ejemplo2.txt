@@ -1,2 +1,1 @@
-Esto es una prueba donde voy a guardar texto
-Y aqui lo estoy modificando.
+He modificado el archivo ejemplo.txt
